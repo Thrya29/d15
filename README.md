@@ -8,3 +8,9 @@ privacy protection
 security protection
 security recomendations
 incident Reporting and response
+
+![flow chart](https://github.com/user-attachments/assets/619fafb8-ee87-400e-82d3-e63c8a9426a9)
+![Hack4u1](https://github.com/user-attachments/assets/73d19cd4-3085-4361-8b49-1754925d8a6a)
+![Sales Project Kickoff](https://github.com/user-attachments/assets/638d1bf2-efa0-4cc7-97bb-c060bf2bd90f)
+
+
